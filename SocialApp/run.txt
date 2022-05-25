@@ -1,0 +1,8 @@
+
+Cyber bullying Detection in Social Networking
+
+D:
+
+cd D:\Django\Cyber Bullying Socail  App\SocialApp
+
+python manage.py runserver
